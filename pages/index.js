@@ -89,27 +89,27 @@ export default function Page({ sections, etag, meta }) {
       })}
       <section>
         <header>
-          <h2>Get Started</h2>
+          <h2>JOIN THE MOVEMENT</h2>
         </header>
         <div className="content">
-          <p>Get started with Now + Next.js</p>
+          <p>Make it happen</p>
           <ul className="actions">
             <li>
               <a
-                href="https://zeit.co"
+                href="https://malda.vercel.app"
                 target="_blank"
                 className="button primary large"
               >
-                Get Started
+                Go to Store
               </a>
             </li>
             <li>
               <a
-                href="https://zeit.co/blog/serverless-pre-rendering"
+                href="#"
                 target="_blank"
                 className="button large"
               >
-                Learn More
+                About
               </a>
             </li>
           </ul>
