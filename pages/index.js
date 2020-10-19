@@ -115,14 +115,14 @@ export default function Page({ sections, etag, meta }) {
           </ul>
         </div>
       </section>
-      <div className="copyright">
+      {/* <div className="copyright">
         Created by{" "}
         <a href="https://zeit.co" target="_blank">
           ZEIT
         </a>{" "}
         &mdash; Template Design by:{" "}
         <a href="https://html5up.net/license">HTML5 UP</a>.
-      </div>
+      </div> */}
 
       <style jsx global>{`
         #wrapper > section > header:before,
