@@ -117,7 +117,7 @@ export default function Page({ sections, etag, meta }) {
       </section>
       {<div className="copyright">
         Support our {" "}
-        <a href="www.gofundme.com/f/malda-soul-sisters-ngo-fundraiser" target="_blank">
+        <a href="https://www.gofundme.com/f/malda-soul-sisters-ngo-fundraiser" target="_blank">
         fundraising          
         </a>{" "}
         &mdash; Come and{" "}
